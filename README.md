@@ -41,8 +41,8 @@
 - [【テクノロジーで業界を変革】物流業界のリアルと変革の醍醐味〜2024年問題にどう立ち向かうか〜](https://www.wantedly.com/companies/xmile/post_articles/473343)
 
 ■エンジニア紹介インタビュー
-- [①不動産Techスタートアップ出身者](https://www.wantedly.com/companies/xmile/post_articles/427822)
-- [②大手SIer出身者](https://www.wantedly.com/companies/xmile/post_articles/466774)
+- [①不動産Techスタートアップ出身者が X Mileに参画したワケ](https://www.wantedly.com/companies/xmile/post_articles/427822)
+- [②大手SIer出身者が X Mileに転職した理由](https://www.wantedly.com/companies/xmile/post_articles/466774)
 
 ■人事制度・福利厚生・その他
 - [開発者向け福利厚生について](https://speakerdeck.com/xmile/engineer-recruiting-pitch?slide=39)
