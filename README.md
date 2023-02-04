@@ -37,16 +37,16 @@
 - [日経新聞掲載「X Mile、ドライバーの拘束時間を管理　脱炭素にも一役」](https://www.nikkei.com/article/DGXZQOUC203HH0Q3A120C2000000/)
 
 ■開発組織・プロダクト・業界課題
-- [【組織】なぜX Mileの開発組織ではエンジニアが爆速成長できるのか。"オーナーシップ"を持てる環境で働く醍醐味とは](https://www.wantedly.com/companies/xmile/post_articles/476480)
-- [【業界課題】物流業界のリアルと変革の醍醐味〜2024年問題にどう立ち向かうか〜](https://www.wantedly.com/companies/xmile/post_articles/473343)
+- [なぜX Mileの開発組織ではエンジニアが爆速成長できるのか。"オーナーシップ"を持てる環境で働く醍醐味とは](https://www.wantedly.com/companies/xmile/post_articles/476480)
+- [【テクノロジーで業界を変革】物流業界のリアルと変革の醍醐味〜2024年問題にどう立ち向かうか〜](https://www.wantedly.com/companies/xmile/post_articles/473343)
 
 ■エンジニア紹介インタビュー
-- [【社員紹介】不動産Techスタートアップ出身者が X Mileに参画したワケ](https://www.wantedly.com/companies/xmile/post_articles/427822)
-- [[【社員紹介】大手SIer出身者が X Mileに転職した理由](https://www.wantedly.com/companies/xmile/post_articles/466774)
+- [不動産Techスタートアップ出身者が X Mileに参画したワケ](https://www.wantedly.com/companies/xmile/post_articles/427822)
+- [大手SIer出身者が X Mileに転職した理由](https://www.wantedly.com/companies/xmile/post_articles/466774)
 
 ■人事制度・福利厚生・その他
-- [【福利厚生】開発者向け福利厚生について](https://speakerdeck.com/xmile/engineer-recruiting-pitch?slide=39)
-- [【人事制度】X Mile人事制度丸わかりBook](https://speakerdeck.com/xmile/x-mileren-shi-zhi-du-wan-wakaribook)
+- [開発者向け福利厚生について](https://speakerdeck.com/xmile/engineer-recruiting-pitch?slide=39)
+- [X Mile人事制度丸わかりBook](https://speakerdeck.com/xmile/x-mileren-shi-zhi-du-wan-wakaribook)
 
 ## 求人情報
 - [マルチプロダクト戦略を技術で支えるフルサイクルエンジニア募集](https://www.wantedly.com/projects/1215733)
