@@ -42,7 +42,7 @@
 
 ■エンジニア紹介インタビュー
 - [不動産Techスタートアップ出身者が X Mileに参画したワケ](https://www.wantedly.com/companies/xmile/post_articles/427822)
-- [大手SIer出身者が X Mileに転職した理由](https://www.wantedly.com/companies/xmile/post_articles/466774)
+- [大手SIer出身者がWeb開発未経験で X Mileに転職した理由](https://www.wantedly.com/companies/xmile/post_articles/466774)
 
 ■人事制度・福利厚生・その他
 - [開発者向け福利厚生について](https://speakerdeck.com/xmile/engineer-recruiting-pitch?slide=39)
