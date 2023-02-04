@@ -1,4 +1,4 @@
-# recruit
+# X Mile Recruit
 ご覧いただきありがとうございます。  
 本リポジトリは、X Mileのエンジニア採用情報をリアルタイムにお届けするためのリポジトリです。
 
@@ -23,25 +23,23 @@
 サービス価値の向上に向けて、一緒にモノづくりを進めていく仲間を探しています。
 ```
 
-## 採用関連情報
-■採用ピッチ資料
+## コンテンツ
+■会社紹介資料
 - [エンジニア向け会社紹介資料/engineer-recruiting-pitch](https://speakerdeck.com/xmile/engineer-recruiting-pitch)
 
-■開発組織について
+■開発組織・プロダクト・業界課題
 - [なぜX Mileの開発組織ではエンジニアが爆速成長できるのか。"オーナーシップ"を持てる環境で働く醍醐味とは](https://www.wantedly.com/companies/xmile/post_articles/476480)
-
-■業界課題について
 - [【テクノロジーで業界を変革】物流業界のリアルと変革の醍醐味〜2024年問題にどう立ち向かうか〜](https://www.wantedly.com/companies/xmile/post_articles/473343)
 
 ■エンジニア紹介インタビュー
 - [①不動産Techスタートアップ出身者](https://www.wantedly.com/companies/xmile/post_articles/427822)
 - [②大手SIer出身者](https://www.wantedly.com/companies/xmile/post_articles/466774)
 
+■その他
+- [開発者向け福利厚生について](https://speakerdeck.com/xmile/engineer-recruiting-pitch?slide=39)
+
 ## 求人情報
 - [マルチプロダクト戦略を技術で支えるフルサイクルエンジニア募集](https://www.wantedly.com/projects/1215733)
 - [事業をスケールさせる技術責任者候補募集](https://www.wantedly.com/projects/1215749)
 - [100兆円規模のノンデスク産業を救うRailsエンジニア募集](https://www.wantedly.com/projects/1214638)
 - [100兆円規模産業をUI/UXで変える。TypeScriptエンジニア募集](https://www.wantedly.com/projects/1215731)
-
-## コンテンツ
-- [開発者向け福利厚生について](https://speakerdeck.com/xmile/engineer-recruiting-pitch?slide=39)
