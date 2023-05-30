@@ -37,6 +37,7 @@
 - [日経新聞掲載「X Mile、ドライバーの拘束時間を管理　脱炭素にも一役」](https://www.nikkei.com/article/DGXZQOUC203HH0Q3A120C2000000/)
 
 ■開発組織・プロダクト・業界課題
+- [エンジニア採用の失敗、あるある8選──創業期にしてハイクラスクリエイターを惹きつけるX Mileに、「開発組織が強くあり続けるための秘訣」を聞く](https://www.fastgrow.jp/articles/xmile-ono-ebina-otani)
 - [なぜX Mileの開発組織ではエンジニアが爆速成長できるのか。"オーナーシップ"を持てる環境で働く醍醐味とは](https://www.wantedly.com/companies/xmile/post_articles/476480)
 - [【テクノロジーで業界を変革】物流業界のリアルと変革の醍醐味〜2024年問題にどう立ち向かうか〜](https://www.wantedly.com/companies/xmile/post_articles/473343)
 
