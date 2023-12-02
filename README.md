@@ -45,7 +45,7 @@
 - [大手SIer出身者がWeb開発未経験で X Mileに転職した理由](https://www.wantedly.com/companies/xmile/post_articles/466774)
 
 ■人事制度・福利厚生・その他
-- [開発者向け福利厚生について](https://speakerdeck.com/xmile/engineer-recruiting-pitch?slide=39)
+- [開発者向け福利厚生について](https://speakerdeck.com/xmile/product-recruiting-pitch?slide=31)
 - [X Mile人事制度丸わかりBook](https://speakerdeck.com/xmile/x-mileren-shi-zhi-du-wan-wakaribook)
 
 ## 求人情報
