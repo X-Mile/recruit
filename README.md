@@ -2,8 +2,9 @@
 ご覧いただきありがとうございます。  
 本リポジトリは、X Mileのエンジニア採用情報をリアルタイムにお届けするためのものです。
 
+代表からのメッセージ
 ```
-私たちは「テクノロジーの力でノンデスクワーカーが主役の世界を」というビジョンを掲げる設立4年のスタートアップ企業です。
+私たちは「テクノロジーの力でノンデスクワーカーが主役の世界を」というビジョンを掲げ、2019年に設立したスタートアップ企業です。
 
 日本はグローバルにおいて労働生産性の低さが課題となっており、
 その中でも最もデジタル化が遅れている業界と言われているのが、
@@ -27,6 +28,27 @@
 （X Mile Founder&CEO 野呂寛之）
 ```
 
+## 求人情報
+- [マルチプロダクト戦略を技術で支えるフルサイクルエンジニア募集](https://www.wantedly.com/projects/1215733)
+- [事業をスケールさせる技術責任者候補募集](https://www.wantedly.com/projects/1215749)
+- [100兆円規模のノンデスク産業を救うRailsエンジニア募集](https://www.wantedly.com/projects/1214638)
+- [100兆円規模産業をUI/UXで変える。TypeScriptエンジニア募集](https://www.wantedly.com/projects/1215731)
+
+カジュアル面談は[こちら](https://app.spirinc.com/patterns/availability-sharing/c0fd982c-dbac-4ca2-8c5f-589fc54b5436/confirm)から
+
+## 開発しているプロダクト
+- [ロジポケ（物流企業向けSaaS）](https://logipoke.com/)
+- [X Work（ノンデスクワーカー向けメディア）](https://x-work.jp/)
+
+## 使用技術
+![スクリーンショット 2024-01-31 10 30 21](https://github.com/X-Mile/recruit/assets/28303021/7e43e6c1-c306-4842-a51e-88669a3b6ba6)
+
+## エンジニアの働き方
+- 最大3日/週のリモートワークとしており、週に2日は顔を合わせてコミュニケーションを取りながら開発しています。
+  -  オフィス: [東京都新宿区新宿6丁目27-30 新宿イーストサイドスクエア7F](https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%96%B0%E5%AE%BF6%E4%B8%81%E7%9B%AE27-30+%E6%96%B0%E5%AE%BF%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B5%E3%82%A4%E3%83%89%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A27F/@35.6966349,139.706096,17z/data=!3m1!4b1?entry=ttu)
+- 週1リリースのスクラムで進めており、機能ラインごとにビジネスチームのメンバーも含めてMTGを設置し、仕様検討やリリース内容のすり合わせなどをしています。
+- フロント/バック/インフラのような切り分けはせず、いわゆるフルサイクルエンジニアとしてプロダクトの成長・安定稼働のために幅広い業務に関与しています。
+
 ## コンテンツ
 ■会社・サービス紹介
 - [エンジニア向け会社紹介資料/engineer-recruiting-pitch](https://speakerdeck.com/xmile/engineer-recruiting-pitch)
@@ -48,8 +70,4 @@
 - [開発者向け福利厚生について](https://speakerdeck.com/xmile/product-recruiting-pitch?slide=31)
 - [X Mile人事制度丸わかりBook](https://speakerdeck.com/xmile/x-mileren-shi-zhi-du-wan-wakaribook)
 
-## 求人情報
-- [マルチプロダクト戦略を技術で支えるフルサイクルエンジニア募集](https://www.wantedly.com/projects/1215733)
-- [事業をスケールさせる技術責任者候補募集](https://www.wantedly.com/projects/1215749)
-- [100兆円規模のノンデスク産業を救うRailsエンジニア募集](https://www.wantedly.com/projects/1214638)
-- [100兆円規模産業をUI/UXで変える。TypeScriptエンジニア募集](https://www.wantedly.com/projects/1215731)
+
